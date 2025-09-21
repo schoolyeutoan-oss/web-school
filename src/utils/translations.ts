@@ -36,7 +36,7 @@ export const translations = {
       "web tính giờ đi ngủ để thức dậy thật YOMOST, hoặc cho những người hay quên đơn vị đo vật lý",
     project3Title: "Dự án riêng tư",
     project3Description:
-      "web này bí mật nhe, ai muốn pass thì inbox (hoặc làm ngieu đi đã)=))",
+      "web này bí mật nhe, ai muốn pass để vào web thì inbox (hoặc làm người ''đặc biệt'' đi đã)=))",
     viewProject: "Xem dự án",
     enterPassword: "Nhập mật khẩu để truy cập",
     password: "Mật khẩu",
@@ -57,8 +57,8 @@ export const translations = {
 
     // Hero
     hello: "Hello, I am",
-    name: "Minh Hoang",
-    subtitle: "Passionate Tech Developer",
+    name: "Nguyen Truong",
+    subtitle: "A goofy but tech-savvy programmer",
     description: "I love programming and creating useful tech products",
 
     // About
@@ -80,9 +80,10 @@ export const translations = {
     project1Description:
       "Online game project with user-friendly interface and engaging gameplay",
     project2Title: "Calculation Tool",
-    project2Description: "Web application supporting complex calculations",
+    project2Description:
+      "sleep timer web to wake up feeling refreshed or for those who forget physical measurements",
     project3Title: "Private Project",
-    project3Description: "High-security project with authentication system",
+    project3Description: "this is my mystery web, message me for more",
     viewProject: "View Project",
     enterPassword: "Enter password to access",
     password: "Password",
